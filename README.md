@@ -1,6 +1,8 @@
 # Making Money with Machine Learning*
 
-This repository will investigate ideas published on the web to make money with sports betting using Machine Learning (ML).
+This repository will investigate ideas published on the web to make money with sports betting using Machine Learning (ML). 
+
+More information: [Making Money with Machine Learning: The journey](https://gearlux.github.io/MakingMoneyML/)
 
 ## Sports betting:
 * [A Beginners Guide to Beating the Bookmakers with TensorFlow](https://andrew.carterlunn.co.uk/programming/2018/02/20/beating-the-bookmakers-with-tensorflow.html)
