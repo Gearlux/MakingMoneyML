@@ -31,4 +31,4 @@ layout: default
 ## Stock Prediction:
 * [Stock Prediction model with Tensorflow 2.0!](https://colab.research.google.com/drive/1XBP0Zh8K4g_n0A2p1UlGFf3dij0EX_Kt)
 
-### [About me](/about)
+### [About me](about.html)
