@@ -1,9 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
----
 # Making Money with Machine Learning
 
 > __Friend__: I want to quit my job. I am going to be a data scientist to earn money !
