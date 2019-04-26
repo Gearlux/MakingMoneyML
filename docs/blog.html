@@ -7,8 +7,9 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="MakingMoneyML/{{ post.url }}">{{ post.title }}</a></h2>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </li>
   {% endfor %}
 </ul>
