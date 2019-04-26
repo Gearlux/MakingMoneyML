@@ -6,6 +6,11 @@ More information: [Making Money with Machine Learning: The journey](https://gear
 
 ## Installation
 
+```
+$ git clone --recurse-submodules https://github.com/Gearlux/MakingMoneyML.git 
+$ git submodule update --remote
+```
+
 I provided some powershell scripts to setup a python virtualenv to run the scripts
 
 ### Windows
