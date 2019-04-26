@@ -1,3 +1,4 @@
 [submodule "python/football-predictor"]
 	path = python/football-predictor
 	url = https://github.com/Gearlux/football-predictor.git
+	ignore=dirty
