@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Beginners Guide to Beating the Bookmakers with TensorFlow!"
+title:  "Scale your features and cross validate!"
 date:   2019-04-25 22:03:18 +0200
 categories: sports
 ---
