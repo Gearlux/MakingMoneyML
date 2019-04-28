@@ -8,4 +8,7 @@ PipInstall jupyter
 PipInstall tensorflow
 PipInstall pandas
 PipInstall matplotlib
-
+PipInstall sklearn
+PipInstall keras
+PipInstall keras_tqdm
+PipInstall tables

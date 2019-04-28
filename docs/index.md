@@ -20,16 +20,25 @@ layout: default
 
 > __Friend__: Within 5 years, I am going to be a millionaire.
 
-> __Me__: Please check my [Reports](blog.html)
+> __Me__: Let's take the 10$ and buy me a beer. I will try to explain it with my [Reports](blog.html).
 
-## Sports betting:
+## Topics
+
+Some example code for 
+- [Feature scaling](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
+- [Keras for multiclass classification](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
+- [Custom keras callbacks](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
+- [Commitee of networks](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
+- [Cross validation](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
+
+### Sports betting:
 * [A Beginners Guide to Beating the Bookmakers with TensorFlow](https://andrew.carterlunn.co.uk/programming/2018/02/20/beating-the-bookmakers-with-tensorflow.html)
 * [Predicting Football Matches using EA Player Ratings and Tensorflow](https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392)
 * Kernels from the [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
   * [Hitting the jackpot: Accumulator betting](https://www.kaggle.com/sadz2201/hitting-the-jackpot-accumulator-betting)
 * [Beating the bookies with their own numbers - and how the online sports betting market is rigged](https://arxiv.org/abs/1710.02824)
  
-## Stock Prediction:
+### Stock Prediction:
 * [Stock Prediction model with Tensorflow 2.0!](https://colab.research.google.com/drive/1XBP0Zh8K4g_n0A2p1UlGFf3dij0EX_Kt)
 
-### [About me](about.html)
+#### [About me](about.html)
