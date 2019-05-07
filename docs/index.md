@@ -30,6 +30,7 @@ Some example code for
 - [Custom keras callbacks](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
 - [Commitee of networks](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
 - [Cross validation](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
+- [Custom metrics and losses](https://github.com/Gearlux/football-predictor/blob/master/custom metrics.ipynb)
 
 ### Sports betting:
 * [A Beginners Guide to Beating the Bookmakers with TensorFlow](https://andrew.carterlunn.co.uk/programming/2018/02/20/beating-the-bookmakers-with-tensorflow.html)
