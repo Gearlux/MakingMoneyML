@@ -1,4 +1,4 @@
-﻿Import-Module (Join-Path $PSScriptRoot pstools.psm1) -Force
+﻿Import-Module (Join-Path $PSScriptRoot/PSTools pstools.psm1) -Force
 
 Invoke-OS
 

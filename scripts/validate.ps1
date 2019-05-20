@@ -1,4 +1,4 @@
-Import-Module (Join-Path $PSScriptRoot pstools.psm1) -Force
+Import-Module (Join-Path $PSScriptRoot/PSTools pstools.psm1) -Force
 
 Invoke-OS
 
@@ -12,3 +12,5 @@ PipInstall sklearn
 PipInstall keras
 PipInstall keras_tqdm
 PipInstall tables
+PipInstall talos
+PipInstall numpy==1.16.2

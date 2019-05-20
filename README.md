@@ -4,25 +4,8 @@ This repository will investigate ideas published on the web to make money with s
 
 More information: [Making Money with Machine Learning: The journey](https://gearlux.github.io/MakingMoneyML/)
 
-## Installation
+## Install
 
-```
-$ git clone --recurse-submodules https://github.com/Gearlux/MakingMoneyML.git 
-$ git submodule update --remote
-```
+There is a powershell script in the scripts directory which will setup a virtual environment to run most of the code.
 
-I provided some powershell scripts to setup a python virtualenv to run the scripts
-
-### Windows
-```
-$ cd scripts
-$ powershell -file validate.ps1
-```
-
-### MacOS
-```
-$ cd scripts\mac
-$ sh bootstrap.sh
-$ cd ..
-$ pwsh -f validate.ps1
-```
+`powershell -file validate.ps1 
