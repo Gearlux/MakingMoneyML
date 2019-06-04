@@ -25,15 +25,18 @@ layout: default
 ## Topics
 
 Some example code for 
-- [Feature scaling](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
-- [Keras for multiclass classification](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
-- [Custom keras callbacks](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
-- [Commitee of networks](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
-- [Cross validation](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb)
-- [Custom metrics](https://github.com/Gearlux/football-predictor/blob/master/custom metrics.ipynb)
+- [Feature scaling](https://github.com/Gearlux/football-predictor/blob/master/02_revamped.ipynb)
+- [Keras for multiclass classification](https://github.com/Gearlux/football-predictor/blob/master/02_revamped.ipynb)
+- [Custom keras callbacks](https://github.com/Gearlux/football-predictor/blob/master/02_revamped.ipynb)
+- [Commitee of networks](https://github.com/Gearlux/football-predictor/blob/master/02_revamped.ipynb)
+- [Cross validation](https://github.com/Gearlux/football-predictor/blob/master/02_revamped.ipynb)
+- [Custom metrics](https://github.com/Gearlux/football-predictor/blob/master/03_custom_metrics.ipynb)
+- [Custom loss functions](https://github.com/Gearlux/football-predictor/blob/master/04_custom_loss_function.ipynb)
+- [Batch normalization](https://github.com/Gearlux/football-predictor/blob/master/04_custom_loss_function.ipynb)
 
 ### Sports betting:
 * [A Beginners Guide to Beating the Bookmakers with TensorFlow](https://andrew.carterlunn.co.uk/programming/2018/02/20/beating-the-bookmakers-with-tensorflow.html)
+* [Machine Learning for Sports betting: not a basic classification problem](https://medium.com/@media_73863/machine-learning-for-sports-betting-not-a-basic-classification-problem-b42ae4900782)
 * [Predicting Football Matches using EA Player Ratings and Tensorflow](https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392)
 * Kernels from the [European Soccer Database](https://www.kaggle.com/hugomathien/soccer)
   * [Hitting the jackpot: Accumulator betting](https://www.kaggle.com/sadz2201/hitting-the-jackpot-accumulator-betting)

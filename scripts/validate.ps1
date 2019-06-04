@@ -14,3 +14,7 @@ PipInstall keras_tqdm
 PipInstall tables
 PipInstall talos
 PipInstall numpy==1.16.2
+PipInstall hyperas
+PipInstall hyperopt
+PipInstall ipynb
+PipInstall mkl 

@@ -8,7 +8,7 @@ categories: sports
 
 ![]({{ site.baseurl }}/assets/images/andrew_carter.png)
 
-I tried to [simulate his results](https://github.com/Gearlux/football-predictor/blob/master/report.ipynb) but we got no profits and accuracy of about 50%.
+I tried to [simulate his results](https://github.com/Gearlux/football-predictor/blob/master/01_report.ipynb) but we got no profits and accuracy of about 50%.
 
 ![]({{ site.baseurl }}/assets/images/andrew_carter_mmm.png)
 
@@ -19,5 +19,5 @@ I have improved the scripts of Andrew by
 - Write a [custom keras callback](https://medium.com/@upu1994/how-easy-is-making-custom-keras-callbacks-c771091602da) to collect performance data
 - Using a [commitee](https://machinelearningmastery.com/ensemble-methods-for-deep-learning-neural-networks/) of networks to predict 
 
-The results of these [tests](https://github.com/Gearlux/football-predictor/blob/master/revamped.ipynb) show that we would have lost 4.52€ over 275 bets if we would have used the strategy. That's not a lot of money because for 17 cents per game it would have made the 275 soccer games much more interesting to follow and along the way, you would have won a couple of times.
+The results of these [tests](https://github.com/Gearlux/football-predictor/blob/master/02_revamped.ipynb) show that we would have lost 4.52€ over 275 bets if we would have used the strategy. That's not a lot of money because for 17 cents per game it would have made the 275 soccer games much more interesting to follow and along the way, you would have won a couple of times.
 
