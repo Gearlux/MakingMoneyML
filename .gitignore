@@ -1,5 +1,9 @@
 _site
 .sass-cache
 .jekyll-metadata
-venv
 .DS_Store
+.ipynb_checkpoints
+__pycache__
+
+venv
+python/data/database.sqlite

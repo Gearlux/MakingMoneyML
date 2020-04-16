@@ -4,3 +4,15 @@
 [submodule "scripts/PSTools"]
 	path = scripts/PSTools
 	url = https://github.com/Gearlux/PSTools.git
+[submodule "python/stock/Stock-Trading-Environment"]
+	path = python/stock/Stock-Trading-Environment
+	url = https://github.com/notadamking/Stock-Trading-Environment.git
+[submodule "python/stock/Stock-Trading-Visualization"]
+	path = python/stock/Stock-Trading-Visualization
+	url = https://github.com/notadamking/Stock-Trading-Visualization.git
+[submodule "python/stock/Bitcoin-Trader-RL"]
+	path = python/stock/Bitcoin-Trader-RL
+	url = https://github.com/notadamking/Bitcoin-Trader-RL.git
+[submodule "RL-stocktrading"]
+	path = RL-stocktrading
+	url = https://github.com/tomgrek/RL-stocktrading.git
